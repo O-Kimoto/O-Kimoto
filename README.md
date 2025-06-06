@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou Otávio Kimoto!
 
-<!--
-**O-Kimoto/O-Kimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de tecnologia com foco em desenvolvimento web e Python.  
+ Atualmente colaborando na [MAYK Soluções](https://mayksolucoes.com.br/) 
+ Estudante da Faculdade [CESAR School](https://www.cesar.school/)
+ Em constante aprendizado e Intrigado por desafios.
 
-Here are some ideas to get you started:
+ 💻 Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PYTHON : 
+Criei um script para fazer a Premiação dos funcionários da empresa. Automatizando um processo longo, para um curto prazo de tempo.
+
+
+ Onde me encontrar:
+[LinkedIn](https://www.linkedin.com/in/otavio-kimoto-michels-188999368/)
+Email: okm@cesar.school
+
+
+
