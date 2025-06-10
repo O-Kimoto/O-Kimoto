@@ -1,5 +1,3 @@
-Olá! Sou Otávio Kimoto, estudante de tecnologia na Faculdade CESAR School e Auxiliar de TI na **MAYK Soluções**.  estou sempre buscando aprender novas tecnologias e enfrentar desafios que otimizem processos e tragam impacto real. Este repositório contém exemplos do meu trabalho, incluindo um script Python para automação de cálculos de premiação.
-
 ## Sobre Mim
 🎓 **Estudante** de Tecnologia na CESAR School.
 💼 **Colaborador** na MAYK Soluções, desenvolvendo soluções para otimização de processos.
@@ -8,6 +6,7 @@ Olá! Sou Otávio Kimoto, estudante de tecnologia na Faculdade CESAR School e Au
 
 ## Onde me encontrar:
 [Linkedin](https://www.linkedin.com/in/otavio-kimoto-michels-188999368/)
+[email](okm@cesar.school)
 
 
 
