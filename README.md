@@ -15,12 +15,15 @@
 ### Sistema de Cálculo de Premiação 
 Desenvolvi um script Python que automatiza o cálculo de pontuações, bônus e comissões para funcionários da MAYK Soluções, reduzindo significativamente o tempo de processamento manual. O script lê dados de vendas, indicações e ausências de um arquivo Excel e gera um relatório consolidado com abas individuais por coordenador.
 
-**Funcionalidades**:
+ **Funcionalidades**:
 - Processa dados das abas `soho`, `indicacao` e `ausencias` do arquivo `soho_pontuacao.xlsx`.
 - Calcula pontos finais, UGR ativas, BL ativas/canceladas/desconectadas e indicações móveis.
 - Aplica penalidades por ausências, atrasos e advertências.
 - Gera um arquivo Excel (`Premiação SOHO Consolidado.xlsx`) com relatórios detalhados e uma aba consolidada.
 
-**Tecnologias Usadas**:
+ **Tecnologias Usadas**:
 - Python, Pandas, NumPy, Openpyxl
+
+### Mentes em Jogo
+Eu e minha equipe desenvolvemos um jogo lúdico e interativo para crianças com TEA, 
 
