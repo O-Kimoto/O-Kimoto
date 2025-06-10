@@ -26,4 +26,4 @@ Desenvolvi um script Python que automatiza o cálculo de pontuações, bônus e 
 
 ### Mentes em Jogo
 Eu e minha equipe desenvolvemos um jogo lúdico e interativo para crianças com TEA, 
-
+[Jogo](https://github.com/guilhermeblacerda/Mentes_em_Jogo)
